@@ -4,10 +4,10 @@ type: essay
 title: Review of the Journal of Applied Sports Management
 date: 2021-03-15
 labels:
--Ethics
--Honors
--Education
--Journal
+- Ethics
+- Honors
+- Education
+- Journal
 ---
 
 The Applied Sport Management Association publishes a quarterly, peer-reviewed journal that includes the newest research and topics of interest in the field of applied sport management. The Journal of Applied Sport Management (JASM) and the Applied Sports Management Association (ASMA) have similar titles and missions, to add worth and value to literature in the sports industry field through conceptual research with empirical results. Shown in their approach in a “Call for papers”, back in 2013, they ask authors to submit articles that address “the latest research in all aspects of applied sport management…” (Walker, 2020). Exploration of JASM’s website found that the current editorial team, headed by the main editor Matthew B. Walker and assisted by two associate editors, demonstrates a continuous effort to promote and uphold their policies and academic standards. This online journal page has a lot to offer for the future of the sport management field.
