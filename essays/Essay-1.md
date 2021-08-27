@@ -4,9 +4,9 @@ type: essay
 title: Arguements of Interests in Academic Publishing, Ethical Issues in Publication
 date: 2021-03-26
 labels:
--Ethics
--Honors
--Education
+- Ethics
+- Honors
+- Education
 ---
 
 	Throughout history, we have learned more and advanced our knowledge by sharing ideas and research. Academic publishing has made important resources accessible to many scholars, who today still rely on academic journals of many kinds to provide, intelligent and focused information. But, since academic publishing has become so important and widespread, various ethical issues have arisen that need to be addressed and fixed. Conflicts of interest are now one of the more prominent ethical issues found in academic publishing. COI’s, also known as competing interests, “can occur when you (or your employer or sponsor) have a financial, commercial, legal, or professional relationship with other organizations, or with the people working with them, that could influence research” (Francis, 2020). Everyone in the publication process can be a victim or a catalyst for competing interests. Individuals that face conflicts of interest include authors, editors, journal staff, publishers, peer reviewers, and readers who rely on truthful information that is free from possible outside influences. 
