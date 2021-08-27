@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:Conflicts of Interests in Academic Publishing, Ethical Issues in Publication
+title: Arguements of Interests in Academic Publishing, Ethical Issues in Publication
 date: 2021-03-26
 labels:
 -Ethics
