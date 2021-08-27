@@ -2,10 +2,10 @@
   "basics": {
     "name": "Peter Rivera-Concannon",
     "label": "Student",
-    "picture": "https://pkrc423.github.io/images/Professional Profile Pic.jpg",
+    "picture": "https://PKRC423.github.io/images/Professional Profile Pic.jpg",
     "email": "pkrc@hawaii.edu",
     "phone": "",
-    "website": "https://pkrc423.github.io",
+    "website": "https://PKRC423.github.io",
     "summary": "I am a student studying Management of Information Systems at the University of Hawaii at Manoa at the Shidler college of Business",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "pkrc423",
-        "url": "http://github.com/pkrc423"
+        "username": "PKRC423",
+        "url": "http://github.com/PKRC423"
       },
       {
         "network": "linkedin",
