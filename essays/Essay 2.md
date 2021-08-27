@@ -1,7 +1,7 @@
 ---
 layout: essay
-type:essay
-title:Review of the Journal of Applied Sports Management
+type: essay
+title: Review of the Journal of Applied Sports Management
 date: 2021-03-15
 labels:
 -Ethics
