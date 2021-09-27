@@ -1,7 +1,12 @@
-Peter Rivera-Concannon
-ITM-352-002, Prof. Kazman
-9/26/2021
-UI Basic Technical Essay
+---
+layout: essay
+type: essay
+title: Preparing for WODS
+date: 2021-09-26
+labels:
+- HTML
+- CSS
+- ITM-352
   
 Browser History 6-
 
