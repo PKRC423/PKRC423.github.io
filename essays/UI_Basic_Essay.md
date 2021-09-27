@@ -1,7 +1,13 @@
-Peter Rivera-Concannon
-ITM-352-002, Prof. Kazman
-9/8/2021
-UI Basics Essay
+---
+layout: essay
+type: essay
+title: UI Basics Essay
+date: 2021-09-08
+labels:
+- HTML
+- CSS
+- ITM-352
+---
 
 Browser History 1-
 
