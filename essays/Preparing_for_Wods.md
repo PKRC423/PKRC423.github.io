@@ -7,7 +7,8 @@ labels:
 - HTML
 - CSS
 - ITM-352
-  
+---
+
 Browser History 6-
 
   https://github.com/PKRC423/ITM352_F21_repo/blob/main/WODs/BrowserHistory6/index.html
