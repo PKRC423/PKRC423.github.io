@@ -19,23 +19,23 @@ My Programming skills have greatly improved in the following ways:
 
 I need to work on the following to improve my programming skills:
 
-  Practicing "Skills". Creating different types of pages with the application given to us like different types of stores and webpages. Amd remembering the base and basic coding terms for each language so I can speed the building process up.
+ Practicing "Skills". Creating different types of pages with the application given to us like different types of stores and webpages. Amd remembering the base and basic coding terms for each language so I can speed the building process up.
 
 I can do the WODs without looking at the screencast solutions first.
 
-    I need to attempt the WOD multiple times before getting it right still. I need to practice more but I don't have the time to study and do work for all my classes and repeat the same code over again to remember it instead of seeing real examples of it being used. And maybe I should have studied for a little after my first attempt and then tried again, and after the second attempt watch the screencast. I say this because reflecting on it I relied on the screencast more than I'd like. But nearing the last WOD I was more confident since I understood it better since it was less tags/building and more functionality.
+   I need to attempt the WOD multiple times before getting it right still. I need to practice more but I don't have the time to study and do work for all my classes and repeat the same code over again to remember it instead of seeing real examples of it being used. And maybe I should have studied for a little after my first attempt and then tried again, and after the second attempt watch the screencast. I say this because reflecting on it I relied on the screencast more than I'd like. But nearing the last WOD I was more confident since I understood it better since it was less tags/building and more functionality.
     
 The Labs have helped me to learn, and I am able to complete them with confidence.
 
-    The Labs have helped me see what we are focusing on that week does in the context we do in lab. But at many points it was hard to connect the reasoning or real purpose of each part with one another until the Forms lesson and Assignment 1. I can now see where each part can be utilized but during most of the Labs I was not fully confident I could finish the entire thing on my own without the lab.
+   The Labs have helped me see what we are focusing on that week does in the context we do in lab. But at many points it was hard to connect the reasoning or real purpose of each part with one another until the Forms lesson and Assignment 1. I can now see where each part can be utilized but during most of the Labs I was not fully confident I could finish the entire thing on my own without the lab.
 
 I feel ready, I am ready to work on the next stage of complexity in programming.
 
-    I feel like I have the resources needed to complete this task but still not as well prepared as I should be and very time constricted since we have 1 week less to complete this. But for the future stage of programming, I feel if I put more time into this and practiced more then I would feel much more confident and capable of building small web applications.
+   I feel like I have the resources needed to complete this task but still not as well prepared as I should be and very time constricted since we have 1 week less to complete this. But for the future stage of programming, I feel if I put more time into this and practiced more then I would feel much more confident and capable of building small web applications.
 
 I think the class can be improved to help my learning in the following ways:
 
-    I know it would be harder projects, but I feel like making more "appealing" pages that look good and aren’t bare bones would interest and make the work better. Maybe if when we learned about CSS we learned more about the templates, and then for the WOD and labs we used the templates. Personally, this would have made it a lot more engaging and interesting than bare bone things that awkwardly fit a screen. I also think showing the functions and such being used in more complex and complete pages that it would make more sense to us.
+   I know it would be harder projects, but I feel like making more "appealing" pages that look good and aren’t bare bones would interest and make the work better. Maybe if when we learned about CSS we learned more about the templates, and then for the WOD and labs we used the templates. Personally, this would have made it a lot more engaging and interesting than bare bone things that awkwardly fit a screen. I also think showing the functions and such being used in more complex and complete pages that it would make more sense to us.
     
 These are the things that worked well for my learning during this class so far:
 
